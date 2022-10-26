@@ -73,3 +73,9 @@ button {
   );
   color: white;
 }
+
+label {
+  font-size: 13px;
+  padding-left: 50px;
+  color: red;
+}
